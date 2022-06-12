@@ -1,4 +1,4 @@
 # test
 update
 
-from fishn
+from fishn2
